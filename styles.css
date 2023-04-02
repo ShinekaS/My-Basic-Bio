@@ -1,15 +1,26 @@
 body {
-    background-image: url(Butterflybackground.jpeg);
+    background-image: url(gThvez.webp);
     background-repeat: no-repeat;
-    background-size: 1100px;
-    font-family: 'Kalam', cursive;
+    background-size: 1800px;
+    font-family: cursive;
     color: black;
     font-weight: bolder;
-}
 
+}
 .main-container {
-    width: 300px;
-   padding: 10px;
-   border: 15px solid yellowgreen;
-   margin: 20px;
+    width: 600px;
+   padding: 15px;
+   border: 4px solid rgb(30, 40, 90);
+   margin: 30px;
+   justify-content: center;
+   align-content: center;
    }
+
+.bioPic1 {
+    border-radius: 50%;
+
+}
+.h5 {
+    display: flex;
+    margin-inline: 50px;
+}
